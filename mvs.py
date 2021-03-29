@@ -21,11 +21,11 @@ def main():
 #--------------------------------Banner/LOGO------------------------------------------
 def logo():
   print """%s
-  __  __ ___    ___                                   
- |  \/  |   \  / __|_ __  __ _ _ __  _ __  ___ _ _ ___ %sAuthor by %sMRVIRUSSPM%s
- | |\/| | |) | \__ \ '_ \/ _` | '  \| '  \/ -_) '_(_-< %sGithub %sgithub.com/MRV1RU55PM%s
- |_|  |_|___/  |___/ .__/\__,_|_|_|_|_|_|_\___|_| /__/ %sTeam %sDRAGONVIRUSCYBER%s
-                   |_|                                 %sTools spam otp dengan 100 spammers"""%(qu,pu,ku,qu,pu,ku,qu,pu,ku,qu,qu)
+   ___                                   
+ / __|_ __  __ _ _ __  _ __  ___ _ _ ___ %sAuthor by %sKangRecord%s
+ \__ \ '_ \/ _` | '  \| '  \/ -_) '_(_-< %sGithub %sgithub.com/mrvirusrecord%s
+ |___/ .__/\__,_|_|_|_|_|_|_\___|_| /__/ %sTeam %sCyberIndonesia%s
+     |_|                                 %sTools spam otp dengan 10 spammers"""%(qu,pu,ku,qu,pu,ku,qu,pu,ku,qu,qu)
 #-------------------------------Input Function------------------------------------------
 def input():
   global nom
