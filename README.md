@@ -39,9 +39,9 @@ requests
 ```
 $ apt update && apt upgrade
 $ pkg update;pkg install python2
-$ git clone https://github.com/MRV1RU55PM/MDSpammers
+$ git clone https://github.com/mrvirusrecord/MDSpammers
 $ cd MDSpammers
 $ pip2 install requests
-$ python2 mvs.py
+$ python2 spams.py
 ```
 Ketik ```git pull``` untuk mengupdate script
